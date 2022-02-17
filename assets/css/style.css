@@ -2050,3 +2050,7 @@ section {
 .padding-bottom-50{
   padding-bottom: 50px;
 }
+.celebrate{
+  max-height: 100px;
+  height: 100%;
+}
